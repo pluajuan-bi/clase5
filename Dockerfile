@@ -1,4 +1,4 @@
-FROM juangrp/hola-clase3:1
+FROM adonispaz9506/holamundobase:1
 
 WORKDIR /app
 
